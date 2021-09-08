@@ -14,4 +14,4 @@ total_hours = total_minutes // 60 # Obtain current hours from total_minutes
 
 current_hour = total_hours % 24 # Obtain cuurent hour from total_minutes % 60
 
-print(f"current time is {current_hour} : {current_minute} : {current_second} GMT") #print current time
+print(f"current tym is {current_hour} : {current_minute} : {current_second} GMT") #print current time
